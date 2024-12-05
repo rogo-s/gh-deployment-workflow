@@ -8,4 +8,4 @@ This repository demonstrates deploying a static website using GitHub Actions to 
 - The workflow deploys the website to GitHub Pages.
 
 ## Access the site
-[Your Deployed Site](https://<username>.github.io/gh-deployment-workflow/)
+[Your Deployed Site](https://github.com/rogo-s/gh-deployment-workflow.git)
